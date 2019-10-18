@@ -1,0 +1,22 @@
+---
+title: "milestone 5"
+author: "Bernadette Stadler"
+date: "10/18/2019"
+output: html_document
+---
+
+In March 2019, the 28 members of the United States Women's National Soccer Team (USWNT) filed a [class-actionlawsuit](https://int.nyt.com/data/documenthelper/653-us-womens-soccer-complaint/f9367608e2eaf10873f4/optimized/full.pdf) against their employer, U.S. Soccer. The lawsuit accuses U.S. soccer of violating the Equal Pay Act and Title VII of thet Civil RIghts Act of 1964 by consistently paying USWNT athletes less than their male counterparts (players on the U.S. Men's National Team or USMNT). The lawsuit, and the subsequent dominance of the USWNT in the 2019 Women's World Cup, have drawn significant attention to the issue of equal pay in professional soccer. However, the USWNT and USMNT have different pay structures that makes it difficult to compare their earnings. Drawing on data from sources incuding the Major League Soccer (MLS) Players Associaiton, the National Women's Soccer League (NWSL), the USWNT lawsuit, and news reports on the USWNT lawsuit, this project seeks to explain the USWNT and USMNT compensation structures and earning potentials in a way that allows for useful comparisons. 
+
+**Background Information**
+
+The [**United States Women's National Team (USWNT)**](https://www.ussoccer.com/teams/uswnt) played its first game in 1985. Since women's soccer was added to the Olympic games in 1996, the USWNT has won [4 gold medals and 1 silver medal in  6 total appearances](https://en.wikipedia.org/wiki/Football_at_the_Summer_Olympics#Women's_tournament). Since the establishement of the Women's World Cup in 1991, the USWNT has placed in the [top three](https://en.wikipedia.org/wiki/United_States_women%27s_national_soccer_team#All-time_results) in every tournament played, and has won the tournament four times. The USWNT is currently ranked the number 1 women's team in the world by the [Fédération Internationale de Football Association (FIFA)](https://www.fifa.com/fifa-world-ranking/ranking-table/women/).
+
+The [**United States Men's National Team (USMNT)**](https://www.ussoccer.com/teams/usmnt) was founded in 1885. Since the first World Cup, in 1930, the USMNT has appeared [10 times](https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team), and it's best result was third place in 1930. The USMNT has qualifed for four of the last seven Olympic games, achieving a highest result of [4th place in 2000](https://en.wikipedia.org/wiki/United_States_men%27s_national_under-23_soccer_team). However, the USMNT usually has a very different player composistion at the Olympics due to the age restriction for [men's teams](https://www.sportsrec.com/363922-what-is-the-age-limit-to-play-in-olympic-soccer-teams.html). The USMNT is ranked 21st in the world by [FIFA](https://www.fifa.com/fifa-world-ranking/ranking-table/men/). 
+
+[**Major League Soccer(MLS)**](https://en.wikipedia.org/wiki/Major_League_Soccer) is the U.S. men's professional soccer league. The leage was founded in 1993 during the United States' bid to host the 1994 FIFA World Cup. 
+
+The [**National Women's Soccer League (NWSL)**](https://en.wikipedia.org/wiki/National_Women%27s_Soccer_League) is the U.S. women's professional soccer league. It was founded in 2012, and is the third attempt to establish a professional women's league in the United States.(It's predecessors folded in 2003 and 2012 respectively). As of 2016, American female soccer players who want to try out for the national team have to play in the NWSL. 
+
+**Data**
+
+The data for this project is drawn from the Major League Soccer Player's Association (MLSPA), which publishes player salaries annually. Additionaly, data was gathered from the articles[*Revealed: the $730,000 gender pay gap in US World Cup bonuses*](https://www.theguardian.com/football/ng-interactive/2019/jun/28/revealed-the-731003-gender-pay-gap-in-us-world-cup-bonuses) and [*Low Pay Limits Player Experience in National Women's Soccer League*](https://fivethirtyeight.com/features/low-pay-limits-player-experience-in-national-womens-soccer-league/), and from sports writer John D. Halloran's [tweets](https://twitter.com/johndhalloran/status/1083078477862129664?lang=en). The MLSPA dataset is available [here](https://data.world/dataremixed/mls-player-salaries-2010-2018)
